@@ -30,17 +30,18 @@
     </head>
     <body>
 
-        <div class="container-fluid">
+        
             <%@include  file="WEB-INF/jspf/cabecera.jspf" %>      
             <%@include  file="WEB-INF/jspf/navProfesor.jspf" %>    
+            <div class="container-fluid">
             <section>
                 <div class="row justify-content-center">
-                    <div class="col-2">
+                    <div class="col-1">
 
                     </div>
 
                     <div class="col-12 justify-content-center">
-                        <section>
+                     
                             <table class="table table-hover">
                                 <thead class="thead-dark">
                                     <tr>
@@ -75,11 +76,9 @@
 
                                 </tbody>
                             </table>
-
-                        </section>
                     </div>
 
-                    <div class="col-2">
+                    <div class="col-1">
 
                     </div>
 

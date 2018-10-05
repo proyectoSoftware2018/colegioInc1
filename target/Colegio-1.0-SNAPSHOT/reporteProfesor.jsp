@@ -30,16 +30,17 @@
     </head>
     <body>
 
-        <div class="container-fluid">
+        
             <%@include  file="WEB-INF/jspf/cabecera.jspf" %>      
             <%@include  file="WEB-INF/jspf/navAdministrador.jspf" %>    
+            <div class="container-fluid">
             <section>
                 <div class="row">
-                    <div class="col-2">
+                    <div class="col-1">
 
                     </div>
                     <div class="col-12">
-                        <section>
+                      
                             <table class="table table-hover">
                                 <thead class="thead-dark">
                                     <tr>
@@ -76,10 +77,10 @@
 
                                 </tbody>
                             </table>
-                        </section>
+                       
 
                     </div>
-                    <div class="col-2">
+                    <div class="col-1">
 
                     </div>
 

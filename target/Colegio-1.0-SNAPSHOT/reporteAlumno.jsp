@@ -40,7 +40,7 @@
                     </div>
 
                     <div class="col-12 justify-content-center">
-                        <section>
+                       
                             <table class="table table-hover">
                                 <thead class="thead-dark">
                                     <tr>
@@ -77,7 +77,7 @@
                                 </tbody>
                             </table>
 
-                        </section>
+                        
                     </div>
 
                     <div class="col-2">

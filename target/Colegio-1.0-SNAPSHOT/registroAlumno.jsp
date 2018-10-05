@@ -187,7 +187,7 @@
                                             </div>
                                         </div>
                                         <div style="text-align: center;" class="py-3">
-                                            <button type="submit" id="boton" class="btn btn-primary">REGISTRAR INFORMACIÓN</button>  
+                                            <button type="submit" id="boton" class="btn btn-primary">Registrar</button>  <a href="administrador.jsp" class="btn btn-danger">Cancelar</a>
                                         </div>
                                     </div>
                                 </div>

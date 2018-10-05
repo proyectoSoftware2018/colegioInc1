@@ -25,7 +25,7 @@
         <div class="conteiner-fluid">
             <%@include file="WEB-INF/jspf/cabecera.jspf" %>
             <%@include file="WEB-INF/jspf/nav.jspf" %>
-            <section>
+            
                 <div class="row">
                     <div class="col-12 col-md-4 col-lg-4"></div>
                     <div class="col-12 col-md-4 col-lg-4">
@@ -54,7 +54,6 @@
                     </div>
                 </div>
 
-            </section>
             <%@include file="WEB-INF/jspf/footer.jspf" %>
             <%@include file="WEB-INF/jspf/jsfooter.jspf" %>
         </div>
