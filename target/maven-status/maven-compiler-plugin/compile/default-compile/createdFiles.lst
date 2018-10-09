@@ -1,6 +1,7 @@
 controlador\registroNota.class
 modelo\DAOusuario.class
 controlador\repoProfe.class
+controlador\UTF8Filter.class
 controlador\CerrarSesion.class
 modelo\ListaNotas.class
 modelo\Alumno.class
